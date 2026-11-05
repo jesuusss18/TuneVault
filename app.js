@@ -150,7 +150,7 @@ if (typeof module !== 'undefined' && module.exports) {
     module.exports = {
         loadAlbums,
         searchAlbums,
-        sortAlbums,
+        sortAlbumsbroken,
         createAlbumCard,
         updateStats
     };
